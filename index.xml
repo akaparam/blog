@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevLogs</title>
+    <link>https://blog.param.sh/</link>
+    <description>Recent content on DevLogs</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Feb 2026 18:23:33 +0530</lastBuildDate>
+    <atom:link href="https://blog.param.sh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://blog.param.sh/posts/hello-world/</link>
+      <pubDate>Sat, 28 Feb 2026 18:23:33 +0530</pubDate>
+      <guid>https://blog.param.sh/posts/hello-world/</guid>
+      <description>&lt;p&gt;My First Post. &lt;em&gt;I&amp;rsquo;m feeling lucky!&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://blog.param.sh/about/</link>
+      <pubDate>Sat, 28 Feb 2026 18:03:22 +0530</pubDate>
+      <guid>https://blog.param.sh/about/</guid>
+      <description>&lt;h1 id=&#34;yo-myself-paramjot-malhotra-aka-param&#34;&gt;&#xA;  Yo, Myself Paramjot Malhotra (aka param)&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#yo-myself-paramjot-malhotra-aka-param&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;By day, I’m a DevOps engineer who runs on 4 cups of cappuccino (400ml; taken at regular intervals during the day) to function properly through my 9 to 5. And by night, I suffer from insomnia (because of all the caf-&lt;em&gt;fe!n&lt;/em&gt;-e intake - &lt;em&gt;duh&lt;/em&gt;) so I shit-post on reddit or theprimeagen&amp;rsquo;s livestream.&lt;/p&gt;&#xA;&lt;p&gt;I like working towards my skills so I can be more productive. I overthink my architecture before I implement it. And for some reason I have a weird tendency to turn my side projects into a full-blown, over-the-top, military-grade, nuclear-war-ready infrastructure design like we are gonna have a million users the next morning I wake up with aliens invading AWS centers and taking them down as I read the headlines.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
